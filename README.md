@@ -7,7 +7,9 @@ I'm Yakoob from Sri Lanka, a full-stack developer specializing in app developmen
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, JS 
+* 💻 HTML, CSS, JS
+
+## About Me
 
 - 🔭 I’m currently working on My own Company 
 - 🌱 I’m currently learning React Native 
