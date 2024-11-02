@@ -11,9 +11,9 @@ I'm Yakoob from Sri Lanka, a full-stack developer specializing in app developmen
 
 ## About Me
 
-- 🔭 I’m currently working on My own Company 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Mobile App Development 
+- 🔭 currently working on My own Company 
+- 🌱 currently learning React Native 
+- 👯 looking to collaborate on Mobile App Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yakoob010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/yakoob010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yakoob-samath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yakoob_fahd/)  
