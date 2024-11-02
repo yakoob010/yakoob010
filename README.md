@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yakoob Samath
+### Hi there 👋, I'm Yakoob 
 #### Mobile App Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakoob010&show_icons=true&theme=radical)
 
